@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0001-two-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0424-longest-repeating-character-replacement) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -30,9 +31,14 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1046-max-consecutive-ones-iii) |
+## String
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
