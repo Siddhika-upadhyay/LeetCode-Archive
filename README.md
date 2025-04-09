@@ -73,6 +73,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0144-binary-tree-preorder-traversal) |
 | [2227-sum-of-subarray-ranges](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -82,4 +83,16 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0048-rotate-image) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
