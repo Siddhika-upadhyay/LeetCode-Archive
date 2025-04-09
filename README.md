@@ -75,6 +75,7 @@
 | [0020-valid-parentheses](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0145-binary-tree-postorder-traversal) |
 | [2227-sum-of-subarray-ranges](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -89,14 +90,17 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
