@@ -66,6 +66,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0048-rotate-image) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1370-count-number-of-nice-subarrays) |
