@@ -24,6 +24,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0966-binary-subarrays-with-sum) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Dynamic Programming
@@ -101,6 +102,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -112,6 +114,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -124,12 +127,14 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -142,4 +147,8 @@
 |  |
 | ------- |
 | [2195-time-needed-to-buy-tickets](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2195-time-needed-to-buy-tickets) |
+## Sorting
+|  |
+| ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
