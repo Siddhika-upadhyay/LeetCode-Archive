@@ -17,6 +17,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1646-kth-missing-positive-number](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1646-kth-missing-positive-number) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2195-time-needed-to-buy-tickets) |
 | [2227-sum-of-subarray-ranges](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2227-sum-of-subarray-ranges) |
 ## Hash Table
@@ -88,6 +89,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0145-binary-tree-postorder-traversal) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2227-sum-of-subarray-ranges](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
@@ -170,10 +172,12 @@
 ## Queue
 |  |
 | ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2195-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
 | ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2195-time-needed-to-buy-tickets) |
 ## Sorting
 |  |
