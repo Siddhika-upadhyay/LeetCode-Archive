@@ -116,6 +116,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2384-root-equals-sum-of-children) |
@@ -153,6 +154,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0662-maximum-width-of-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2384-root-equals-sum-of-children) |
@@ -190,4 +192,5 @@
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0783-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
