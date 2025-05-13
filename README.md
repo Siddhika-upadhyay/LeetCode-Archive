@@ -14,6 +14,7 @@
 | [0890-lemonade-change](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1046-max-consecutive-ones-iii) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1646-kth-missing-positive-number](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1646-kth-missing-positive-number) |
@@ -89,11 +90,13 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0145-binary-tree-postorder-traversal) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2227-sum-of-subarray-ranges](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2227-sum-of-subarray-ranges](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2227-sum-of-subarray-ranges) |
 ## Matrix
 |  |
@@ -123,6 +126,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2384-root-equals-sum-of-children](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -168,6 +172,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2384-root-equals-sum-of-children](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2384-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -208,4 +213,5 @@
 | [0450-delete-node-in-a-bst](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
