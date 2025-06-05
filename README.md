@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -83,6 +84,7 @@
 | [0007-reverse-integer](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0066-plus-one) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1370-count-number-of-nice-subarrays) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Stack
