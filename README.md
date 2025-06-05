@@ -90,6 +90,7 @@
 | [0009-palindrome-number](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0066-plus-one) |
+| [0326-power-of-three](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0326-power-of-three) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1370-count-number-of-nice-subarrays) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Stack
@@ -253,4 +254,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0274-h-index) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
