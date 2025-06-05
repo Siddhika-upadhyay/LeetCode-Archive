@@ -260,6 +260,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0024-swap-nodes-in-pairs) |
 | [0326-power-of-three](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0342-power-of-four) |
 ## Divide and Conquer
@@ -278,4 +279,8 @@
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0342-power-of-four) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
