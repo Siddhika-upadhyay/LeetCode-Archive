@@ -11,6 +11,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0152-maximum-product-subarray) |
+| [0274-h-index](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0274-h-index) |
 | [0890-lemonade-change](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1046-max-consecutive-ones-iii) |
@@ -214,6 +215,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0274-h-index) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Binary Search Tree
@@ -237,4 +239,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0173-binary-search-tree-iterator) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
