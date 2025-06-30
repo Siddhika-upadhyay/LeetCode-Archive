@@ -17,6 +17,7 @@
 | [0152-maximum-product-subarray](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0152-maximum-product-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0274-h-index) |
+| [0435-non-overlapping-intervals](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0455-assign-cookies) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0890-lemonade-change) |
@@ -55,12 +56,14 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0152-maximum-product-subarray) |
+| [0435-non-overlapping-intervals](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0455-assign-cookies) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0890-lemonade-change) |
@@ -241,6 +244,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0274-h-index) |
+| [0435-non-overlapping-intervals](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0455-assign-cookies) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0780-max-chunks-to-make-sorted) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
