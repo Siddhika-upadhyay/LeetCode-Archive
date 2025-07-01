@@ -57,6 +57,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
 | ------- |
@@ -65,6 +66,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0890-lemonade-change) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -97,6 +99,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0020-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0424-longest-repeating-character-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0678-valid-parenthesis-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Math
 |  |
@@ -117,6 +120,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0173-binary-search-tree-iterator) |
+| [0678-valid-parenthesis-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0780-max-chunks-to-make-sorted) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1802-number-of-students-unable-to-eat-lunch) |
