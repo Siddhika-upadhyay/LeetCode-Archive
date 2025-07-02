@@ -9,6 +9,7 @@
 | [0045-jump-game-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -248,6 +249,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0435-non-overlapping-intervals) |
