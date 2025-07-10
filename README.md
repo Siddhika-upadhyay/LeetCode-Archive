@@ -41,6 +41,7 @@
 | [2195-time-needed-to-buy-tickets](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2195-time-needed-to-buy-tickets) |
 | [2227-sum-of-subarray-ranges](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2227-sum-of-subarray-ranges) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Hash Table
 |  |
@@ -85,6 +86,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0890-lemonade-change) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Binary Search
 |  |
@@ -390,4 +392,8 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Enumeration
+|  |
+| ------- |
+| [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 <!---LeetCode Topics End-->
