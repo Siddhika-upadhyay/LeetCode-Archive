@@ -74,6 +74,7 @@
 | [0542-01-matrix](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0678-valid-parenthesis-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Greedy
 |  |
@@ -387,6 +388,7 @@
 | [0744-network-delay-time](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0820-find-eventual-safe-states) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Backtracking
 |  |
@@ -413,5 +415,6 @@
 | ------- |
 | [0744-network-delay-time](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
