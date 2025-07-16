@@ -230,6 +230,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1073-number-of-enclaves) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
 |  |
@@ -287,6 +288,7 @@
 | [1036-rotting-oranges](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1753-path-with-minimum-effort) |
 ## Two Pointers
 |  |
@@ -379,6 +381,7 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0547-number-of-provinces) |
 | [1073-number-of-enclaves](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1073-number-of-enclaves) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
@@ -390,6 +393,7 @@
 | [0744-network-delay-time](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0820-find-eventual-safe-states) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Backtracking
