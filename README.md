@@ -23,6 +23,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0455-assign-cookies) |
 | [0542-01-matrix](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0890-lemonade-change) |
@@ -52,6 +53,7 @@
 | [0127-word-ladder](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0424-longest-repeating-character-replacement) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0721-accounts-merge](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0721-accounts-merge) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0966-binary-subarrays-with-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -126,6 +128,7 @@
 | [0127-word-ladder](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0678-valid-parenthesis-string) |
+| [0721-accounts-merge](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0721-accounts-merge) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3396-valid-word](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3396-valid-word) |
 ## Math
@@ -223,6 +226,7 @@
 | [0547-number-of-provinces](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -279,6 +283,7 @@
 | [0547-number-of-provinces](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0662-maximum-width-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -314,6 +319,7 @@
 | [0274-h-index](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0274-h-index) |
 | [0435-non-overlapping-intervals](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0455-assign-cookies) |
+| [0721-accounts-merge](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0721-accounts-merge) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0780-max-chunks-to-make-sorted) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -380,6 +386,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0721-accounts-merge) |
 | [1073-number-of-enclaves](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1753-path-with-minimum-effort) |
