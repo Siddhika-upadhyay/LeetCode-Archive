@@ -26,6 +26,7 @@
 | [0721-accounts-merge](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0780-max-chunks-to-make-sorted) |
+| [0794-swim-in-rising-water](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0966-binary-subarrays-with-sum) |
@@ -98,6 +99,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0222-count-complete-tree-nodes) |
+| [0794-swim-in-rising-water](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1046-max-consecutive-ones-iii) |
 | [1646-kth-missing-positive-number](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1753-path-with-minimum-effort) |
@@ -169,6 +171,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1073-number-of-enclaves) |
@@ -231,6 +234,7 @@
 | [0721-accounts-merge](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0854-making-a-large-island) |
@@ -290,6 +294,7 @@
 | [0721-accounts-merge](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0854-making-a-large-island) |
@@ -370,6 +375,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0215-kth-largest-element-in-an-array) |
 | [0744-network-delay-time](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1753-path-with-minimum-effort) |
 ## Quickselect
@@ -392,6 +398,7 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0721-accounts-merge) |
+| [0794-swim-in-rising-water](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1442-number-of-operations-to-make-network-connected) |
