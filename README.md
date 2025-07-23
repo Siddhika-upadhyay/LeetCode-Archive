@@ -73,6 +73,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -147,6 +148,7 @@
 | [0007-reverse-integer](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0066-plus-one) |
 | [0326-power-of-three](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0342-power-of-four) |
@@ -468,4 +470,8 @@
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1300-critical-connections-in-a-network) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
