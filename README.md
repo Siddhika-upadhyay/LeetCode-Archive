@@ -115,6 +115,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0222-count-complete-tree-nodes) |
+| [0367-valid-perfect-square](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0367-valid-perfect-square) |
 | [0794-swim-in-rising-water](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1046-max-consecutive-ones-iii) |
 | [1646-kth-missing-positive-number](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1646-kth-missing-positive-number) |
@@ -160,6 +161,7 @@
 | [0066-plus-one](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0066-plus-one) |
 | [0326-power-of-three](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0367-valid-perfect-square) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1370-count-number-of-nice-subarrays) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Stack
