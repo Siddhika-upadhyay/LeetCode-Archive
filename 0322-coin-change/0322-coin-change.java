@@ -64,10 +64,32 @@ class Solution {
 
     //space optimized:
 
+    // public int coinChange(int[] coins, int amount) {
+    //     int n= coins.length;
+    //     int []prev= new int[amount+1];
+    //     int []curr= new int[amount+1];
+    //     for(int t=0;t<=amount;t++){
+    //         if(t%coins[0]==0)prev[t]=t/coins[0];
+    //         else prev[t]=(int)1e9;
+    //     }
+    //     for(int ind=1;ind<n;ind++){
+    //         for(int tar=0;tar<=amount;tar++){
+    //             int notpick=0+prev[tar];
+    //             int pick= Integer.MAX_VALUE;
+    //             if(coins[ind]<=tar)pick=1+curr[tar - coins[ind]];
+    //             curr[tar]=Math.min(notpick,pick);
+    //         }
+    //         prev=curr;
+    //     }
+    //    int res=  prev[amount];
+    //    if(res>=(int)1e9)return -1;
+    //    else return res;
+    // }
+
+    //unbounded knapsack :
     public int coinChange(int[] coins, int amount) {
         int n= coins.length;
         int []prev= new int[amount+1];
-        int []curr= new int[amount+1];
         for(int t=0;t<=amount;t++){
             if(t%coins[0]==0)prev[t]=t/coins[0];
             else prev[t]=(int)1e9;
@@ -76,10 +98,9 @@ class Solution {
             for(int tar=0;tar<=amount;tar++){
                 int notpick=0+prev[tar];
                 int pick= Integer.MAX_VALUE;
-                if(coins[ind]<=tar)pick=1+curr[tar - coins[ind]];
-                curr[tar]=Math.min(notpick,pick);
+                if(coins[ind]<=tar)pick=1+prev[tar - coins[ind]];
+                prev[tar]=Math.min(notpick,pick);
             }
-            prev=curr;
         }
        int res=  prev[amount];
        if(res>=(int)1e9)return -1;
