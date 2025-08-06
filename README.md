@@ -80,6 +80,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0062-unique-paths) |
@@ -113,6 +114,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -159,6 +161,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0126-word-ladder-ii) |
@@ -413,6 +416,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0044-wildcard-matching) |
 | [0326-power-of-three](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0342-power-of-four) |
 ## Divide and Conquer
