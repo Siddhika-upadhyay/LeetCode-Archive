@@ -87,6 +87,7 @@
 | [0064-minimum-path-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -159,6 +160,7 @@
 | [0014-longest-common-prefix](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0072-edit-distance) |
+| [0115-distinct-subsequences](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0424-longest-repeating-character-replacement) |
