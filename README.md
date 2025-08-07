@@ -35,6 +35,7 @@
 | [0494-target-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0542-01-matrix) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0733-flood-fill) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0780-max-chunks-to-make-sorted) |
@@ -111,6 +112,7 @@
 | [0542-01-matrix](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0967-minimum-falling-path-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0967-minimum-falling-path-sum) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -126,6 +128,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0890-lemonade-change) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
