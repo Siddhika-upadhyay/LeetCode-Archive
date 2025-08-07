@@ -15,17 +15,32 @@ class Solution {
     //     return dp[0][1];
     // }
 
-    public int maxProfit(int[] prices) {
-          int n = prices.length;
-        int[][] dp = new int[n + 2][2]; 
-        for (int ind = n - 1; ind >=0; ind--) {
-                    dp[ind][1] = Math.max(-prices[ind] + dp[ind + 1][0], dp[ind + 1][1]);
-                    dp[ind][0] = Math.max(prices[ind] + dp[ind + 2][1], dp[ind + 1][0]);
+    // public int maxProfit(int[] prices) {
+    //       int n = prices.length;
+    //     int[][] dp = new int[n + 2][2]; 
+    //     for (int ind = n - 1; ind >=0; ind--) {
+    //                 dp[ind][1] = Math.max(-prices[ind] + dp[ind + 1][0], dp[ind + 1][1]);
+    //                 dp[ind][0] = Math.max(prices[ind] + dp[ind + 2][1], dp[ind + 1][0]);
                 
             
-        }
+    //     }
 
-        return dp[0][1];
+    //     return dp[0][1];
+    // }
+
+    //space optmize it:
+      public int maxProfit(int[] prices) {
+          int n = prices.length;
+        int[] f1 = new int[2];
+        int[] f2 = new int[2];
+        int[] curr = new int[2]; 
+        for (int ind = n - 1; ind >=0; ind--) {
+            curr[1] = Math.max(-prices[ind] + f1[0], f1[1]);
+            curr[0] = Math.max(prices[ind] + f2[1], f1[0]);
+            f2 = f1.clone();
+           f1 = curr.clone();
+        }
+        return f1[1];
     }
 
     //   int n = prices.length;
