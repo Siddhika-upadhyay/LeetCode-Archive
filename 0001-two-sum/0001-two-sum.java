@@ -7,7 +7,7 @@ class Solution {
  for(int i=0;i<nums.length;i++){
     int num=nums[i];
     int more=target-num;
-    if(mpp.containsKey(target-nums[i])){
+    if(mpp.containsKey(more)){
         result[0]=mpp.get(more);;
         result[1]=i;
         return result;
