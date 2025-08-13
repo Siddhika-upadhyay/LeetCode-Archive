@@ -55,6 +55,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1646-kth-missing-positive-number](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1646-kth-missing-positive-number) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1753-path-with-minimum-effort) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2195-time-needed-to-buy-tickets) |
@@ -119,6 +120,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0967-minimum-falling-path-sum) |
 | [1129-longest-string-chain](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1129-longest-string-chain) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Greedy
 |  |
@@ -397,6 +399,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0780-max-chunks-to-make-sorted) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1129-longest-string-chain) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Binary Search Tree
 |  |
