@@ -1,28 +1,47 @@
 class Solution {
+   // in one pass only:
     public int largestRectangleArea(int[] heights) {
          int n= heights.length;
-         int leftSmall[]= new int [n];
-         int rightSmall[]= new int [n];
          Stack<Integer> st= new Stack<>();
          int maxA=0;
-         for(int i=0;i<n;i++){
-            while(!st.isEmpty()&& heights[st.peek()]>=heights[i]){
-                st.pop();
+         int width=0;
+         for(int i=0;i<=n;i++){
+            while(!st.isEmpty()&& (i==n||heights[st.peek()]>=heights[i])){
+                    int height=heights[st.peek()];
+                    st.pop();
+                    if(st.isEmpty())width=i;
+                    else width= i-st.peek()-1;
+                    maxA= Math.max(maxA,width*height);
             }
-           leftSmall[i] = st.isEmpty() ? 0 : st.peek() + 1;
-            st.push(i);
-         }
-          while(!st.isEmpty())st.pop();
-           for(int i=n-1;i>=0;i--){
-            while(!st.isEmpty()&& heights[st.peek()]>=heights[i]){
-                st.pop();
-            }
-            rightSmall[i]=st.isEmpty()?n-1:st.peek()-1;
-            maxA= Math.max(maxA,(rightSmall[i] - leftSmall[i] + 1)*heights[i]);
             st.push(i);
          }
         return maxA;
     }
+
+    // public int largestRectangleArea(int[] heights) {
+    //      int n= heights.length;
+    //      int leftSmall[]= new int [n];
+    //      int rightSmall[]= new int [n];
+    //      Stack<Integer> st= new Stack<>();
+    //      int maxA=0;
+    //      for(int i=0;i<n;i++){
+    //         while(!st.isEmpty()&& heights[st.peek()]>=heights[i]){
+    //             st.pop();
+    //         }
+    //        leftSmall[i] = st.isEmpty() ? 0 : st.peek() + 1;
+    //         st.push(i);
+    //      }
+    //       while(!st.isEmpty())st.pop();
+    //        for(int i=n-1;i>=0;i--){
+    //         while(!st.isEmpty()&& heights[st.peek()]>=heights[i]){
+    //             st.pop();
+    //         }
+    //         rightSmall[i]=st.isEmpty()?n-1:st.peek()-1;
+    //         maxA= Math.max(maxA,(rightSmall[i] - leftSmall[i] + 1)*heights[i]);
+    //         st.push(i);
+    //      }
+    //     return maxA;
+    // }
 
     // public int largestRectangleArea(int[] heights) {
     //     Stack<Integer> st = new Stack<>();
