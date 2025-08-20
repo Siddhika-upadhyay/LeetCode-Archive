@@ -37,6 +37,7 @@
 | [0455-assign-cookies](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0721-accounts-merge) |
@@ -121,6 +122,7 @@
 | [0494-target-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0678-valid-parenthesis-string) |
@@ -481,6 +483,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0222-count-complete-tree-nodes) |
 | [0342-power-of-four](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0342-power-of-four) |
+| [0526-beautiful-arrangement](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0526-beautiful-arrangement) |
 ## Linked List
 |  |
 | ------- |
@@ -522,6 +525,7 @@
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0126-word-ladder-ii) |
 | [0494-target-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0494-target-sum) |
+| [0526-beautiful-arrangement](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0526-beautiful-arrangement) |
 | [0813-all-paths-from-source-to-target](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0813-all-paths-from-source-to-target) |
 ## Topological Sort
 |  |
@@ -560,4 +564,8 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0208-implement-trie-prefix-tree) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
