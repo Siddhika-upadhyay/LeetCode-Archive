@@ -151,6 +151,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0890-lemonade-change) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1448-maximum-69-number) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -201,6 +202,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0721-accounts-merge) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1129-longest-string-chain](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1129-longest-string-chain) |
 | [1197-parsing-a-boolean-expression](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1197-parsing-a-boolean-expression) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -232,6 +234,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0173-binary-search-tree-iterator) |
 | [0678-valid-parenthesis-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0780-max-chunks-to-make-sorted) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1197-parsing-a-boolean-expression](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1197-parsing-a-boolean-expression) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1802-number-of-students-unable-to-eat-lunch) |
