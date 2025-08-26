@@ -208,6 +208,7 @@
 | [1197-parsing-a-boolean-expression](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1197-parsing-a-boolean-expression) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [1894-merge-strings-alternately](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1894-merge-strings-alternately) |
 | [3396-valid-word](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3396-valid-word) |
 ## Math
 |  |
@@ -410,6 +411,7 @@
 | [0455-assign-cookies](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1129-longest-string-chain](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1129-longest-string-chain) |
+| [1894-merge-strings-alternately](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1894-merge-strings-alternately) |
 ## Queue
 |  |
 | ------- |
