@@ -79,6 +79,7 @@
 | [0126-word-ladder-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0138-copy-list-with-random-pointer) |
+| [0205-isomorphic-strings](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0424-longest-repeating-character-replacement) |
@@ -201,6 +202,7 @@
 | [0127-word-ladder](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0516-longest-palindromic-subsequence) |
