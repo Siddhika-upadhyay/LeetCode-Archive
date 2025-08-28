@@ -209,6 +209,7 @@
 | [0583-delete-operation-for-two-strings](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0721-accounts-merge) |
+| [0812-rotate-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1078-remove-outermost-parentheses) |
 | [1129-longest-string-chain](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1129-longest-string-chain) |
@@ -591,4 +592,8 @@
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0526-beautiful-arrangement) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
