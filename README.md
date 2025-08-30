@@ -76,6 +76,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0013-roman-to-integer) |
 | [0126-word-ladder-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0138-copy-list-with-random-pointer) |
@@ -195,6 +196,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0044-wildcard-matching) |
@@ -229,6 +231,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0066-plus-one) |
