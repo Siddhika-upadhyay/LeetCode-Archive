@@ -614,4 +614,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0451-sort-characters-by-frequency) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
