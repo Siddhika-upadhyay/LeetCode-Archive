@@ -100,6 +100,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0055-jump-game) |
@@ -196,6 +197,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0014-longest-common-prefix) |
@@ -428,6 +430,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0455-assign-cookies) |
