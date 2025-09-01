@@ -432,6 +432,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0031-next-permutation) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0151-reverse-words-in-a-string) |
 | [0455-assign-cookies](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -529,6 +530,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0024-swap-nodes-in-pairs) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0138-copy-list-with-random-pointer) |
 ## Union Find
