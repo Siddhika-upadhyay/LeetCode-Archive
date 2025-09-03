@@ -78,6 +78,7 @@
 | [0001-two-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0013-roman-to-integer) |
+| [0076-minimum-window-substring](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0138-copy-list-with-random-pointer) |
@@ -180,6 +181,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1034-subarrays-with-k-different-integers) |
@@ -207,6 +209,7 @@
 | [0020-valid-parentheses](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0127-word-ladder) |
