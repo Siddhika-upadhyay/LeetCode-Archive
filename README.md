@@ -79,6 +79,7 @@
 | [0001-two-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0013-roman-to-integer) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0127-word-ladder) |
@@ -184,6 +185,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0966-binary-subarrays-with-sum) |
@@ -212,6 +214,7 @@
 | [0013-roman-to-integer](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0020-valid-parentheses) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0044-wildcard-matching](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0076-minimum-window-substring) |
