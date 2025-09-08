@@ -131,6 +131,7 @@
 | [0312-burst-balloons](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0338-counting-bits](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0494-target-sum) |
@@ -541,6 +542,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0222-count-complete-tree-nodes) |
+| [0338-counting-bits](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0342-power-of-four) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0526-beautiful-arrangement](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0526-beautiful-arrangement) |
