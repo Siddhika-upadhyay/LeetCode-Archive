@@ -233,6 +233,7 @@
 | [0205-isomorphic-strings](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0516-longest-palindromic-subsequence) |
@@ -336,6 +337,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -365,6 +367,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0543-diameter-of-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0547-number-of-provinces) |
@@ -408,6 +411,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -430,6 +434,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0542-01-matrix) |
@@ -509,6 +514,7 @@
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0208-implement-trie-prefix-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Iterator
 |  |
 | ------- |
