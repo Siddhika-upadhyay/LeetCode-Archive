@@ -251,6 +251,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2032-largest-odd-number-in-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3396-valid-word) |
 ## Math
 |  |
@@ -497,6 +498,7 @@
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2887-sort-vowels-in-a-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2887-sort-vowels-in-a-string) |
 ## Binary Search Tree
 |  |
 | ------- |
