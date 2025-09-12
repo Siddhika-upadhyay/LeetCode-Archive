@@ -254,6 +254,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2032-largest-odd-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3396-valid-word) |
+| [3462-vowels-game-in-a-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3462-vowels-game-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -272,6 +273,7 @@
 | [1448-maximum-69-number](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2032-largest-odd-number-in-string) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [3462-vowels-game-in-a-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3462-vowels-game-in-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -673,4 +675,12 @@
 | [0176-second-highest-salary](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0177-nth-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0181-employees-earning-more-than-their-managers) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
