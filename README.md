@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0055-jump-game) |
@@ -187,6 +188,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0033-search-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0222-count-complete-tree-nodes) |
 | [0367-valid-perfect-square](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0367-valid-perfect-square) |
 | [0794-swim-in-rising-water](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0794-swim-in-rising-water) |
