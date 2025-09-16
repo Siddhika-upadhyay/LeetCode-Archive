@@ -74,6 +74,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2195-time-needed-to-buy-tickets) |
 | [2227-sum-of-subarray-ranges](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2227-sum-of-subarray-ranges) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -281,6 +282,7 @@
 | [1448-maximum-69-number](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2032-largest-odd-number-in-string) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3462-vowels-game-in-a-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3462-vowels-game-in-a-string) |
 ## Stack
 |  |
@@ -302,6 +304,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2227-sum-of-subarray-ranges](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2227-sum-of-subarray-ranges) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -692,4 +695,8 @@
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3462-vowels-game-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
