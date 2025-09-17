@@ -76,6 +76,7 @@
 | [2195-time-needed-to-buy-tickets](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2195-time-needed-to-buy-tickets) |
 | [2227-sum-of-subarray-ranges](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2227-sum-of-subarray-ranges) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2429-design-a-food-rating-system](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2429-design-a-food-rating-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -113,6 +114,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2429-design-a-food-rating-system](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2429-design-a-food-rating-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
@@ -262,6 +264,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1894-merge-strings-alternately](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2032-largest-odd-number-in-string) |
+| [2429-design-a-food-rating-system](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3462-vowels-game-in-a-string) |
@@ -535,6 +538,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [2429-design-a-food-rating-system](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2429-design-a-food-rating-system) |
 ## Iterator
 |  |
 | ------- |
@@ -573,6 +577,7 @@
 | [0794-swim-in-rising-water](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1753-path-with-minimum-effort) |
+| [2429-design-a-food-rating-system](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2429-design-a-food-rating-system) |
 ## Quickselect
 |  |
 | ------- |
@@ -701,4 +706,8 @@
 |  |
 | ------- |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2307-replace-non-coprime-numbers-in-array) |
+## Ordered Set
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
