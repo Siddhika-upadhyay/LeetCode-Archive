@@ -121,6 +121,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0055-jump-game) |
@@ -231,6 +232,7 @@
 | [0013-roman-to-integer](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0044-wildcard-matching](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0058-length-of-last-word) |
@@ -633,6 +635,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0022-generate-parentheses) |
 | [0126-word-ladder-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0126-word-ladder-ii) |
 | [0494-target-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0526-beautiful-arrangement) |
