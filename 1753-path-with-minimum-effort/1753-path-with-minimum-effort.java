@@ -1,48 +1,48 @@
-class Solution {
-    class tuple{
-        int dis;
-        int row;
-        int col;
-        tuple(int d, int r, int c){
-            dis=d;
-            row=r;
-            col=c;
-        }
+class Pair{
+    int row;
+    int col;
+    int dist;
+    Pair(int r,int c,int d){
+        row=r;
+        col=c;
+        dist=d;
     }
+}
+class Solution {
     public int minimumEffortPath(int[][] heights) {
-       PriorityQueue<tuple>pq= new PriorityQueue<tuple>
-       ((x,y)->x.dis-y.dis);
-       int n= heights.length;
-       int m= heights[0].length;
-       int [][]dist= new int[n][m];
-       for(int i=0;i<n;i++){
-        for(int j=0;j<m;j++){
-            dist[i][j]=(int)1e9;
+        int n= heights.length;
+        int m= heights[0].length;
+        PriorityQueue<Pair> pq= new PriorityQueue<>((a,b)->a.dist-b.dist);
+        int dist[][]= new int[n][m];
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                dist[i][j]=(int)1e9;;
+            }
         }
-       }
-       dist[0][0]=0;
-       pq.add(new tuple(0,0,0));
-       int[] dr={-1,0,1,0};
-       int[] dc={0,1,0,-1};
+        dist[0][0]=0;
+        pq.add(new Pair(0,0,0));
+        int []delRow= {-1,0,1,0};
+        int []delCol={0,1,0,-1};
         while(!pq.isEmpty()){
-            tuple it= pq.peek();
+            int row=pq.peek().row;
+            int col=pq.peek().col;
+            int dis= pq.peek().dist;
             pq.remove();
-            int diff=it.dis,row=it.row,col=it.col;
-            if(row==n-1&&col==m-1)return diff;
+            if(row==n-1&&col==m-1)return dis;
             for(int i=0;i<4;i++){
-                int newr=row+dr[i];
-                int newc= col+dc[i];
-                if(newr >= 0 && newr < n && newc >= 0 && newc < m)
-                {int newEffort=Math.max(Math.abs(heights[row][col]
-                -heights[newr][newc]),
-                diff);
-                if(newEffort<dist[newr][newc]){
-                    dist[newr][newc]=newEffort;
-                    pq.add(new tuple(newEffort,newr,newc));
+                int nRow=row+delRow[i];
+                int nCol= col+delCol[i];
+                if(nRow>=0&& nRow<n && nCol>=0 && nCol<m){
+                  int diff= Math.abs(heights[nRow][nCol]- heights[row]     
+                  [col]);
+                    int newEffort= Math.max(diff,dis);
+                  if(newEffort<dist[nRow][nCol]){
+                    dist[nRow][nCol]=newEffort;
+                    pq.add(new Pair(nRow,nCol,newEffort));
                 }
                 }
             }
-        }
-        return 0;
+             }
+             return 0;
     }
 }
