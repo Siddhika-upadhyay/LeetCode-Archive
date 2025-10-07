@@ -68,6 +68,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1612-avoid-flood-in-the-city](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1612-avoid-flood-in-the-city) |
 | [1646-kth-missing-positive-number](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1646-kth-missing-positive-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1753-path-with-minimum-effort) |
@@ -113,6 +114,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1612-avoid-flood-in-the-city](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1612-avoid-flood-in-the-city) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2429-design-a-food-rating-system](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2429-design-a-food-rating-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -182,6 +184,7 @@
 | [0890-lemonade-change](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1448-maximum-69-number](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1448-maximum-69-number) |
+| [1612-avoid-flood-in-the-city](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1612-avoid-flood-in-the-city) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2032-largest-odd-number-in-string) |
@@ -196,6 +199,7 @@
 | [0367-valid-perfect-square](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0367-valid-perfect-square) |
 | [0794-swim-in-rising-water](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1046-max-consecutive-ones-iii) |
+| [1612-avoid-flood-in-the-city](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1612-avoid-flood-in-the-city) |
 | [1646-kth-missing-positive-number](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1753-path-with-minimum-effort) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -578,6 +582,7 @@
 | [0744-network-delay-time](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1612-avoid-flood-in-the-city](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1612-avoid-flood-in-the-city) |
 | [1753-path-with-minimum-effort](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1753-path-with-minimum-effort) |
 | [2429-design-a-food-rating-system](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2429-design-a-food-rating-system) |
 ## Quickselect
