@@ -81,6 +81,7 @@
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Hash Table
 |  |
 | ------- |
@@ -227,6 +228,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## String
 |  |
 | ------- |
@@ -507,6 +509,7 @@
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2195-time-needed-to-buy-tickets) |
+| [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Sorting
 |  |
 | ------- |
