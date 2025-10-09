@@ -1,19 +1,22 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
-        List<String> result=new ArrayList<>();
-        backtrack(result,"",0,0,n);
-        return result;
+        int open=0,close=0;
+        String result="";
+        List<String>ans=new ArrayList<>();
+       parenthesis(ans,result,open,close,n);
+       return ans;
     }
-    private void backtrack(List<String> result, String current, int open, int close, int max) {
-        if(current.length()==max*2){
-            result.add(current);
+    public static void parenthesis(List<String>ans,String result, int  
+    open ,int close, int max){
+        if(result.length()==2*max){
+            ans.add(result);
             return;
         }
         if(open<max){
-            backtrack(result,current+"(",open+1,close,max);
+            parenthesis(ans,result+"(",open+1,close,max);
         }
         if(close<open){
-            backtrack(result,current+")",open,close+1,max);
+            parenthesis(ans,result+")",open,close+1,max);
         }
     }
 }
