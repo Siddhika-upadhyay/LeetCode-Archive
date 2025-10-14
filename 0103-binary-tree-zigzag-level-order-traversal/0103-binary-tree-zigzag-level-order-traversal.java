@@ -21,7 +21,7 @@ class Solution {
          q.offer(root);
          boolean lTor=true;
          while(!q.isEmpty()){
-             int s=q.size();
+             int s=q.size(); 
              List<Integer> temp=new ArrayList<>();
              for(int i=0;i<s;i++){
                  TreeNode curr=q.poll();
