@@ -150,6 +150,7 @@
 | [0322-coin-change](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0338-counting-bits) |
+| [0392-is-subsequence](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0494-target-sum) |
@@ -253,6 +254,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0392-is-subsequence](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0516-longest-palindromic-subsequence) |
@@ -498,6 +500,7 @@
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0160-intersection-of-two-linked-lists) |
+| [0392-is-subsequence](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1129-longest-string-chain](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1129-longest-string-chain) |
