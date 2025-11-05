@@ -177,6 +177,7 @@
 | [0055-jump-game](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0605-can-place-flowers) |
@@ -255,6 +256,7 @@
 | [0242-valid-anagram](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0392-is-subsequence](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0516-longest-palindromic-subsequence) |
@@ -309,6 +311,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0173-binary-search-tree-iterator) |
+| [0402-remove-k-digits](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -325,6 +328,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0402-remove-k-digits) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0780-max-chunks-to-make-sorted) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2227-sum-of-subarray-ranges](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2227-sum-of-subarray-ranges) |
