@@ -65,6 +65,7 @@
 | [1129-longest-string-chain](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -165,6 +166,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0967-minimum-falling-path-sum) |
 | [1121-partition-array-for-maximum-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1129-longest-string-chain) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -202,6 +204,7 @@
 | [0367-valid-perfect-square](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0367-valid-perfect-square) |
 | [0794-swim-in-rising-water](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0794-swim-in-rising-water) |
 | [1046-max-consecutive-ones-iii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1046-max-consecutive-ones-iii) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1612-avoid-flood-in-the-city](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1612-avoid-flood-in-the-city) |
 | [1646-kth-missing-positive-number](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1646-kth-missing-positive-number) |
 | [1753-path-with-minimum-effort](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1753-path-with-minimum-effort) |
@@ -536,6 +539,7 @@
 | [0780-max-chunks-to-make-sorted](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0780-max-chunks-to-make-sorted) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1129-longest-string-chain](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1129-longest-string-chain) |
+| [1352-maximum-profit-in-job-scheduling](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
