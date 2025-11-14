@@ -282,6 +282,7 @@
 | [2429-design-a-food-rating-system](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3396-valid-word) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3462-vowels-game-in-a-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
@@ -620,6 +621,7 @@
 | [0342-power-of-four](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0342-power-of-four) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0526-beautiful-arrangement](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0526-beautiful-arrangement) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Linked List
 |  |
 | ------- |
@@ -667,6 +669,7 @@
 | [0494-target-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0526-beautiful-arrangement) |
 | [0813-all-paths-from-source-to-target](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0813-all-paths-from-source-to-target) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Topological Sort
 |  |
 | ------- |
