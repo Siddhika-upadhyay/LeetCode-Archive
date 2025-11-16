@@ -19,6 +19,7 @@
 | [0066-plus-one](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0085-maximal-rectangle) |
+| [0090-subsets-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0120-triangle) |
@@ -616,6 +617,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0222-count-complete-tree-nodes) |
 | [0338-counting-bits](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0338-counting-bits) |
@@ -667,6 +669,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0039-combination-sum) |
+| [0090-subsets-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0126-word-ladder-ii) |
 | [0494-target-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0526-beautiful-arrangement) |
