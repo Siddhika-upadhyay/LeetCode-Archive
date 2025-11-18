@@ -145,6 +145,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -257,6 +258,7 @@
 | [0115-distinct-subsequences](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0205-isomorphic-strings) |
@@ -675,6 +677,7 @@
 | [0039-combination-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0526-beautiful-arrangement) |
