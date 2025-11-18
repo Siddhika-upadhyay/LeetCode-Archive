@@ -17,6 +17,7 @@
 | [0063-unique-paths-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0090-subsets-ii) |
@@ -255,6 +256,7 @@
 | [0058-length-of-last-word](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0127-word-ladder) |
@@ -349,6 +351,7 @@
 | [0048-rotate-image](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0085-maximal-rectangle) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0542-01-matrix) |
@@ -399,6 +402,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0099-recover-binary-search-tree) |
@@ -675,6 +679,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0131-palindrome-partitioning) |
