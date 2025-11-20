@@ -11,6 +11,7 @@
 | [0039-combination-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0057-insert-interval) |
@@ -679,6 +680,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0126-word-ladder-ii) |
