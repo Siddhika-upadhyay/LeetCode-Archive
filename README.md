@@ -31,6 +31,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0198-house-robber) |
@@ -104,6 +105,7 @@
 | [0126-word-ladder-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0139-word-break) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0208-implement-trie-prefix-tree) |
@@ -151,6 +153,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0198-house-robber) |
@@ -265,6 +268,7 @@
 | [0127-word-ladder](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0208-implement-trie-prefix-tree) |
@@ -706,6 +710,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0139-word-break) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Enumeration
 |  |
@@ -730,6 +735,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Bitmask
