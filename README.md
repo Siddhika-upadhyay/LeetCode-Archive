@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0048-rotate-image) |
@@ -96,6 +97,7 @@
 | [0013-roman-to-integer](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -349,6 +351,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0064-minimum-path-sum) |
@@ -679,6 +682,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0079-word-search) |
