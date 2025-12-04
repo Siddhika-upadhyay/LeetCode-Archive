@@ -26,8 +26,8 @@ class Solution {
                 }
             }
         }
-
         return sum;
+        
         // int sum=0,i=1;
         // int n= ratings.length;
         // while(i<n){
