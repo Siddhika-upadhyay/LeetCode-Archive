@@ -87,6 +87,7 @@
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2429-design-a-food-rating-system](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2429-design-a-food-rating-system) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
@@ -245,6 +246,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## String
 |  |
@@ -320,6 +322,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2032-largest-odd-number-in-string) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/3462-vowels-game-in-a-string) |
 ## Stack
 |  |
