@@ -61,6 +61,7 @@
 | [0890-lemonade-change](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0890-lemonade-change) |
 | [0966-binary-subarrays-with-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0967-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0994-rotting-oranges) |
 | [1006-vowel-spellchecker](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1006-vowel-spellchecker) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1036-rotting-oranges) |
@@ -370,6 +371,7 @@
 | [0794-swim-in-rising-water](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0967-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -518,6 +520,7 @@
 | [0854-making-a-large-island](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0994-rotting-oranges) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1073-number-of-enclaves) |
