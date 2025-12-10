@@ -1,49 +1,45 @@
 class Solution {
-    class Pair{
-        int first,second,third;
-        Pair(int f, int s,int t){
-            this.first=f;
-            this.second=s;
-            this.third=t;
+    class Tuple{
+        int row;
+        int col;
+        int steps;
+        Tuple(int r, int c, int s){
+            this.row=r;
+            this.col=c;
+            this.steps=s;
         }
     }
     public int[][] updateMatrix(int[][] mat) {
-        int n= mat.length;
-        int m= mat[0].length;
-        int vis[][]=new int[n][m];
-        int dis[][]=new int [n][m];
-        Queue<Pair>q=new LinkedList<>();
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(mat[i][j]==0){
-                    q.add(new Pair(i,j,0));
-                    vis[i][j]=1;
-                }
-                else{
-                    vis[i][j]=0;
-                }
+      int n= mat.length;
+      int m = mat[0].length;
+      int vis[][]= new int [n][m];
+      int res[][]= new int [n][m];
+      Queue<Tuple>q= new LinkedList<>();
+      for(int i=0;i<n;i++){
+        for(int j=0;j<m;j++){
+            if(mat[i][j]==0){
+                vis[i][j]=1;
+                q.add(new Tuple(i,j,0));
             }
         }
-        int delrow[]={-1,0,1,0};
-        int delcol[]={0,1,0,-1};
-        while(!q.isEmpty()){
-            int row=q.peek().first;
-            int col=q.peek().second;
-            int step= q.peek().third;
-            q.remove();
-            dis[row][col]=step;
-            for(int i=0;i<4;i++){
-                int nrow= row+delrow[i];
-                int ncol= col+delcol[i];
-                if(nrow>=0 && nrow<n && ncol>=0 && ncol<m
-                && vis[nrow][ncol]==0)
-                {
-                    vis[nrow][ncol]=1;
-                    q.add(new Pair(nrow,ncol,step+1));
-                }
-            }
+      }
+      int[]dr={-1,0,1,0};
+      int []dc={0,1,0,-1};
+      while(!q.isEmpty()){
+        Tuple t= q.poll();
+        int r= t.row;
+        int c= t.col;
+        int s= t.steps;
+        res[r][c]=s;
+        for( int i=0;i<4;i++){
+          int nr= r+dr[i];
+          int nc= c+dc[i];
+          if(nr>=0 && nr<n && nc>=0 && nc<m && vis[nr][nc]==0){
+            q.add(new Tuple(nr,nc,s+1));
+            vis[nr][nc]=1;
+          }
         }
-        return dis;
-
+      }
+     return res;
     }
 }
