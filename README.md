@@ -447,6 +447,7 @@
 | [0721-accounts-merge](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0744-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0813-all-paths-from-source-to-target) |
@@ -520,6 +521,7 @@
 | [0721-accounts-merge](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0744-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0813-all-paths-from-source-to-target) |
@@ -673,6 +675,7 @@
 | [0547-number-of-provinces](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0721-accounts-merge) |
+| [0785-is-graph-bipartite](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0854-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1020-number-of-enclaves) |
@@ -688,6 +691,7 @@
 | [0547-number-of-provinces](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0744-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0785-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0820-find-eventual-safe-states) |
