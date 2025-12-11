@@ -64,6 +64,7 @@
 | [0967-minimum-falling-path-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0967-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0994-rotting-oranges) |
 | [1006-vowel-spellchecker](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1006-vowel-spellchecker) |
+| [1020-number-of-enclaves](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1020-number-of-enclaves) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1036-rotting-oranges) |
 | [1039-find-the-town-judge](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1039-find-the-town-judge) |
@@ -374,6 +375,7 @@
 | [0854-making-a-large-island](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0854-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0967-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1020-number-of-enclaves) |
 | [1036-rotting-oranges](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -452,6 +454,7 @@
 | [0854-making-a-large-island](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1020-number-of-enclaves](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1073-number-of-enclaves) |
 | [1300-critical-connections-in-a-network](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1300-critical-connections-in-a-network) |
@@ -525,6 +528,7 @@
 | [0871-keys-and-rooms](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0871-keys-and-rooms) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1073-number-of-enclaves) |
@@ -671,6 +675,7 @@
 | [0721-accounts-merge](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0721-accounts-merge) |
 | [0794-swim-in-rising-water](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0854-making-a-large-island) |
+| [1020-number-of-enclaves](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1020-number-of-enclaves) |
 | [1073-number-of-enclaves](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1753-path-with-minimum-effort) |
