@@ -15,10 +15,10 @@ class Solution {
                 count--;
             }
           need[right]--;
-          r++;
+          
             while(count==0){
-                if(r-l<minLen){
-                    minLen= r-l;
+                if(r-l+1<minLen){
+                    minLen= r-l+1;
                     start= l;
                 }
                 char temp= s.charAt(l);
@@ -26,6 +26,7 @@ class Solution {
                 if (need[temp] > 0) count++;
                 l++;
             }
+            r++;
             
         }
      return minLen==Integer.MAX_VALUE?"":s.substring(start,start+minLen);
