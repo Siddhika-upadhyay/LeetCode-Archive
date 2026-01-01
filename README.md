@@ -464,6 +464,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1073-number-of-enclaves) |
 | [1300-critical-connections-in-a-network](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1300-critical-connections-in-a-network) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1753-path-with-minimum-effort) |
 ## Binary Tree
@@ -540,6 +541,7 @@
 | [1036-rotting-oranges](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1753-path-with-minimum-effort) |
 ## Two Pointers
@@ -688,6 +690,7 @@
 | [0854-making-a-large-island](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0854-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1020-number-of-enclaves) |
 | [1073-number-of-enclaves](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1073-number-of-enclaves) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1753-path-with-minimum-effort) |
 ## Graph
@@ -706,6 +709,7 @@
 | [0871-keys-and-rooms](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0871-keys-and-rooms) |
 | [1039-find-the-town-judge](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1039-find-the-town-judge) |
 | [1300-critical-connections-in-a-network](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1300-critical-connections-in-a-network) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2090-number-of-ways-to-arrive-at-destination) |
