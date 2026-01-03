@@ -188,6 +188,7 @@
 | [1129-longest-string-chain](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1129-longest-string-chain) |
 | [1352-maximum-profit-in-job-scheduling](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1352-maximum-profit-in-job-scheduling) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2090-number-of-ways-to-arrive-at-destination) |
