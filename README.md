@@ -459,6 +459,7 @@
 | [0778-swim-in-rising-water](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0794-swim-in-rising-water) |
+| [0802-find-eventual-safe-states](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0802-find-eventual-safe-states) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0820-find-eventual-safe-states) |
@@ -535,6 +536,7 @@
 | [0778-swim-in-rising-water](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0794-swim-in-rising-water) |
+| [0802-find-eventual-safe-states](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0802-find-eventual-safe-states) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0820-find-eventual-safe-states) |
@@ -711,6 +713,7 @@
 | [0684-redundant-connection](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0744-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0802-find-eventual-safe-states) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0813-all-paths-from-source-to-target](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0813-all-paths-from-source-to-target) |
 | [0820-find-eventual-safe-states](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0820-find-eventual-safe-states) |
@@ -744,6 +747,7 @@
 | [0207-course-schedule](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0210-course-schedule-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0802-find-eventual-safe-states](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0802-find-eventual-safe-states) |
 | [0820-find-eventual-safe-states](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Siddhika-upadhyay/LeetCode-Archive/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Memoization
